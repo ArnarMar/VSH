@@ -33,7 +33,7 @@ tr:nth-child(even) {
 						<div class="col-xs-12">
 						<p><b>Events today!</b></p>
 							<?php
-							$con=mysqli_connect("tsuts.tskoli.is","1505982309","mypassword","1505982309_vsh");
+							$con=mysqli_connect("tsuts.tskoli.is","kt","mypassword","kt_vsh");
 							// Check connection
 							if (mysqli_connect_errno())
 							{
